@@ -1,0 +1,1 @@
+self.__NEXT_FONT_MANIFEST='{"pages":{},"app":{"/Users/levellawrence/Desktop/Desktop - Level’s MacBook Pro/Fullsail Univerity/deploymentOfWebApp/week1/nextdemo/app/layout":["static/media/c9a5bc6a7c948fb0-s.p.woff2"]},"appUsingSizeAdjust":true,"pagesUsingSizeAdjust":false}';
